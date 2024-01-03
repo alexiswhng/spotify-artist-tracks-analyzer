@@ -1,6 +1,6 @@
 # Spotify Analyzer
 
-A streamlit app that uses data visualization tools to analyze Spotify songs, artists, albums, or playlists
+A streamlit app that uses data visualization tools to analyze Spotify artists and their top songs
 
 References:
 - https://spotipy.readthedocs.io/en/latest/
