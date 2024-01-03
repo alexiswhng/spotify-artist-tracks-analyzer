@@ -1,4 +1,4 @@
-# Spotify Analyzer
+# Spotify Artist Analyzer
 
 A streamlit app that uses data visualization tools to analyze Spotify artists and their top songs
 
